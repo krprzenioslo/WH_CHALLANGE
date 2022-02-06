@@ -1,0 +1,5 @@
+# terraform
+plan.out
+status
+.terraform/
+.terraform.lock.hcl
